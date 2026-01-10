@@ -1,0 +1,8 @@
+{
+  "is_active": true,
+  "notice_title": "IMPORTANT NOTICE",
+  "notice_message": "Server is currently under maintenance. Please wait.",
+  "force_telegram": true,
+  "telegram_url": "https://t.me/HackingAndroidYTT",
+  "kill_switch": false
+}
