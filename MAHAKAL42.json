@@ -1,7 +1,7 @@
 {
   "status": "safe",
   "message": "Welcome!",
-  "force_popup": false, // Set this to 'false' if you don't want the popup to show
+  "force_popup": true, // Set this to 'false' if you don't want the popup to show
   "force_redirect_telegram": true, // <--- NEW: Set to 'true' to force redirect
   "popup_url": "https://t.me/HackingAndroidYTT", // This will be used for direct redirect
   "popup_title": "IMPORTANT ANNOUNCEMENT", // These won't be used if force_popup is false
