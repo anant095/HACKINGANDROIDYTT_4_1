@@ -1,8 +1,9 @@
 {
   "status": "safe",
   "message": "Welcome!",
-  "force_popup": true, // Set to true to enable the popup
-  "popup_url": "https://t.me/HackingAndroidYTT", // Your Telegram link
-  "popup_title": "📢 Important Notice!",
-  "popup_message": "Please join our official Telegram channel for all the latest news, updates, and support. Don't miss out!"
+  "force_popup": false, // Set this to 'false' if you don't want the popup to show
+  "force_redirect_telegram": true, // <--- NEW: Set to 'true' to force redirect
+  "popup_url": "https://t.me/HackingAndroidYTT", // This will be used for direct redirect
+  "popup_title": "IMPORTANT ANNOUNCEMENT", // These won't be used if force_popup is false
+  "popup_message": "Join our Telegram for crucial updates and support!" // These won't be used if force_popup is false
 }
