@@ -1,0 +1,8 @@
+{
+  "status": "safe",
+  "message": "Welcome!",
+  "force_popup": true,
+  "popup_url": "https://t.me/your_telegram_channel",
+  "popup_title": "IMPORTANT ANNOUNCEMENT",
+  "popup_message": "Join our Telegram for updates and support!"
+}
