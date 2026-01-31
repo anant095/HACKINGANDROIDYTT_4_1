@@ -1,8 +1,8 @@
 {
   "status": "safe",
   "message": "Welcome!",
-  "force_popup": true,
-  "popup_url": "https://t.me/your_telegram_channel",
-  "popup_title": "IMPORTANT ANNOUNCEMENT",
-  "popup_message": "Join our Telegram for updates and support!"
+  "force_popup": true, // Set to true to enable the popup
+  "popup_url": "https://t.me/your_telegram_channel_link", // Your Telegram link
+  "popup_title": "📢 Important Notice!",
+  "popup_message": "Please join our official Telegram channel for all the latest news, updates, and support. Don't miss out!"
 }
